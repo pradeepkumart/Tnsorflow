@@ -1,4 +1,6 @@
 # Tensorflow
+
+#LLM using claude AI
 Please set up a  Python environment for training a language model from scratch. Install PyTorch with CUDA support, transformers library,datasets,tokenizers,numpy,matplotlib, and tqdm. Configure everything to use my Nvidia GPU and verify CUDA detection. Set up a project structure with folders for data, models, and scripts.
 
 
